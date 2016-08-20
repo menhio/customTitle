@@ -1,2 +1,2 @@
 # customTitle
-Custom title for Content Type Salud
+Custom title for Content Type Salud - Mazpesca
